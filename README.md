@@ -1,2 +1,2 @@
-# desafio-matem-tico-em-C-
+# desafios matemáticos em C#-Dio
 Resolvendo o desafio matemático em C# da Dio 
